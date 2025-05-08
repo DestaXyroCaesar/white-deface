@@ -1,0 +1,3 @@
+#please put your target websites here line by line
+http://kobralocks.com
+http://smknegeri2pelaihari.sch.id/
